@@ -1,0 +1,23 @@
+# ⛏️ Python 기본 빌드 & 캐시 파일
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 🐍 Virtual environment
+venv/
+.environment
+
+# 🧠 Jupyter Notebook
+.ipynb_checkpoints/
+
+# 💻 VSCode
+.vscode/
+
+# 📸 기타
+.DS_Store
+*.log
+*.sqlite3
