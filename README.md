@@ -3,8 +3,7 @@
 AI에게 음식 사진을 보여주면,  
 **무엇인지 추정하고 칼로리를 설명해주는** 감성 미니 앱입니다.
 
-![preview](./screenshots/gpt4o-ramen-analysis-co
-ver.jpg) <!-- 이미지 캡처 넣고 싶으면 여기에 저장 -->
+![preview](./screenshots/gpt4o-ramen-analysis-cover.jpg) <!-- 이미지 캡처 넣고 싶으면 여기에 저장 -->
 
 ---
 
